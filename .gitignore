@@ -1,0 +1,9 @@
+target/
+log/
+tomcat/
+tomcat/logs/
+*~
+*#
+.#*
+*.class
+*.log
